@@ -14,7 +14,7 @@ Given this flexibility and variety, we thought we should find a way to help both
 
 It seemed that a very informal, lightweight collection of talks by both members of the Jupyter team and community participants who have already built tools or deployed the system for their needs, could provide this kind of "gallery" overview.
 
-This repository will be graudally filled out with the content from the talks, and we'll update it with the video recording of the discussion after it happens.
+This repository will be gradually filled out with the content from the talks, and we'll update it with the video recording of the discussion after it happens.
 
 ## Agenda
 
