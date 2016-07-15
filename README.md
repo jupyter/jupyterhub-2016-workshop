@@ -29,7 +29,7 @@ This is our current agenda of lightning talks (only the first is a longer one by
 1. 10:20-10:30. Andrea Zonca (UCSD/SDSC). Local deployments at UCSD/SDSC.
 1. **10:30-10:40. Break**
 1. 10:40-10:50. Michael Milligan (Minnesota Supercomputing Institute).
-1. 10:50:11. James Colliander (PIMS): JupyterHub using docker and flocker on an Openstack cluster via ansible + vagrant.
+1. 10:50:11. Ian Allison (PIMS): JupyterHub using docker and flocker on an Openstack cluster via ansible + vagrant.
 1. Mike Polino & Alec Aivazis (DataScience, Inc). REST API content manager or transitioning a data science team from Jupyter to JupyterHub.
 1. Waiting response from speaker.
 1. Available open slot.
