@@ -34,3 +34,30 @@ This is our current agenda of lightning talks (only the first is a longer one by
 1. Waiting response from speaker.
 1. Available open slot.
 1. 11:30-12. Open Q&A for questions from the audience.
+
+
+## Call logistics
+
+We'll hold the meeting using [Zoom.us](http://zoom.us), we recommend running a test on your system if you're going to be speaking before the presentation.
+
+The meeting link [is here](https://lbnl.zoom.us/j/162513876), full details  below for easy copy/pasting:
+
+```
+Join from PC, Mac, Linux, iOS or Android: https://lbnl.zoom.us/j/162513876
+
+Or iPhone one-tap (US Toll):  +14086380968,162513876# or +16465588656,162513876#
+
+Or Telephone:
+    Dial: +1 408 638 0968 (US Toll) or +1 646 558 8656 (US Toll)
+    +1 855 880 1246 (US Toll Free)
+    +1 877 369 0926 (US Toll Free)
+    Meeting ID: 162 513 876
+    International numbers available: https://lbnl.zoom.us/zoomconference?m=yR9NpqFr_Gbt3NYLqB3mYDaypdVGepOG
+
+
+Or a H.323/SIP room system:
+    H.323: 162.255.37.11 (US West) or 162.255.36.11 (US East) 
+    Meeting ID: 162 513 876
+
+    SIP: 162513876@zoomcrc.com
+```
