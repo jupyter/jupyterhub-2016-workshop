@@ -21,17 +21,17 @@ This repository will be gradually filled out with the content from the talks, an
 This is our current agenda of lightning talks (only the first is a longer one by @minrk outlining the overall system design, so that all other speakers can skip that). All times Pacific:
 
 
-1. 9-9:30am. Min Ragan-Kelley (Simula & Jupyter Team). System architecture, options, main plugins, etc.
-1. 9:30-9:45. Brian Granger (CalPoly and Jupyter Team). Installation and deployment using ansible.
-1. 9:45-10. Jess Hamrick (UC Berkeley and Jupyter Team).
-1. 10-10:10. Ryan Lovett (UC Berkeley).
-1. 10:10-10:20. Shreyas Cholia (LBNL/NERSC). Driving Supercomputers with Jupyterhub - NERSC experiences on Cori.
-1. 10:20-10:30. Andrea Zonca (UCSD/SDSC). Local deployments at UCSD/SDSC.
-1. **10:30-10:40. Break**
-1. 10:40-10:50. Michael Milligan (Minnesota Supercomputing Institute).
-1. 10:50:11. Ian Allison, James Colliander and Michael Lamoureux (PIMS): JupyterHub using docker and flocker on an Openstack cluster via ansible + vagrant.
-1. Mike Polino & Alec Aivazis (DataScience, Inc). REST API content manager or transitioning a data science team from Jupyter to JupyterHub.
-1. Waiting response from speaker.
+1. 9 - 9:30am. Min Ragan-Kelley (Simula & Jupyter Team). System architecture, options, main plugins, etc.
+1. 9:30 - 9:45. Brian Granger (CalPoly and Jupyter Team). Installation and deployment using ansible.
+1. 9:45 - 10. Jess Hamrick (UC Berkeley and Jupyter Team).
+1. 10 - 10:10. Ryan Lovett (UC Berkeley).
+1. 10:10 - 10:20. Shreyas Cholia (LBNL/NERSC). Driving Supercomputers with Jupyterhub - NERSC experiences on Cori.
+1. 10:20 - 10:30. Andrea Zonca (UCSD/SDSC). Local deployments at UCSD/SDSC.
+1. **10:30 - 10:40. Break**
+1. 10:40 - 10:50. Michael Milligan (Minnesota Supercomputing Institute).
+1. 10:50 - 11. Ian Allison, James Colliander and Michael Lamoureux (PIMS): JupyterHub using docker and flocker on an Openstack cluster via ansible + vagrant.
+1. 11 - 11:10. Mike Polino & Alec Aivazis (DataScience, Inc). REST API content manager or transitioning a data science team from Jupyter to JupyterHub.
+1. 11:10 - 11:20. Jonathon Anderson (CU Boulder).
 1. Available open slot.
 1. 11:30-12. Open Q&A for questions from the audience.
 
