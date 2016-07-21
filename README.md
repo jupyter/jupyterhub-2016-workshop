@@ -29,7 +29,7 @@ This is our current agenda of lightning talks (only the first is a longer one by
 |2. |  9:30 - 9:45. | Brian Granger (CalPoly and Jupyter Team). | Installation and deployment using ansible. |
 |3. |  9:45 - 10:00. | Jess Hamrick (UC Berkeley and Jupyter Team). | JupyterHub in Education: scaling with Docker and integrating with nbgrader |
 |4. | 10:00 - 10:10. | Ryan Lovett (UC Berkeley). | |
-|5. | 10:10 - 10:20. | Shreyas Cholia (LBNL/NERSC). | Driving Supercomputers with Jupyterhub - NERSC experiences on Cori. |
+|5. | 10:10 - 10:20. | Shreyas Cholia (LBNL/NERSC). | [Driving Supercomputers with Jupyterhub - NERSC experiences on Cori.](Shreyas-JupyterhubWorkshopNERSC.pdf) |
 |6. | 10:20 - 10:30. | Andrea Zonca (UCSD/SDSC). | Local deployments at UCSD/SDSC. |
 |7. | **10:30 - 10:40.** | **Break**  |  |
 |8. | 10:40 - 10:50. | Michael Milligan (Minnesota Supercomputing Institute).| |
