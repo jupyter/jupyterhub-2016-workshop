@@ -2,7 +2,7 @@
 
 Materials for an online mini-workshop around JupyterHub use cases, held July 22nd, 2016.
 
-This workshop will be held online (details coming soon) as a group conference call. We think we can hold about 50 simultaneous participants in total, but if you can't make it for any reason, not to worry: we'll record the entire discussion and will post it to YouTube afterwards (we'll update this repo with the video links).
+This workshop will be held online (call details below) as a group conference call. We think we can hold about 50 simultaneous participants in total, but if you can't make it for any reason, not to worry: we'll record the entire discussion and will post it to YouTube afterwards (we'll update this repo with the video links).
 
 The purpose of the workshop is to provide a collection of short talks highlighting various deployment use cases and tools for JupyterHub, coming both from regulars of the project and the broader community.  JupyterHub is a very flexible tool and there are multiple, different, valid use cases that require a variety of supporting tools and configurations, ranging from a local, single-machine deployment to complex scenarios in the cloud or HPC environments that orchestrate assemblies of servers.
 
@@ -56,7 +56,7 @@ Or Telephone:
 
 
 Or a H.323/SIP room system:
-    H.323: 162.255.37.11 (US West) or 162.255.36.11 (US East) 
+    H.323: 162.255.37.11 (US West) or 162.255.36.11 (US East)
     Meeting ID: 162 513 876
 
     SIP: 162513876@zoomcrc.com
