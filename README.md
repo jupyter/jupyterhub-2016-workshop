@@ -49,7 +49,7 @@ The meeting link [is here](https://lbnl.zoom.us/j/162513876), full details  belo
 ```
 Join from PC, Mac, Linux, iOS or Android: https://lbnl.zoom.us/j/162513876
 
-Or iPhone one-tap (US Toll):  +14086380968,162513876# or +16465588656,162513876#
+Or iPhone one-tap (US Toll):  +1 408 638 0968, 162513876# or +1 646 558 8656, 162513876#
 
 Or Telephone:
     Dial: +1 408 638 0968 (US Toll) or +1 646 558 8656 (US Toll)
