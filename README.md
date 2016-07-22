@@ -7,6 +7,7 @@ Materials for an online mini-workshop around JupyterHub use cases, held July 22n
 - [Agenda](#agenda)
 - [Call Logistics](#call-logistics)
 - [Meeting notes](https://jupyter.hackpad.com/JupyterHub-Mini-Workshop-Notes-QquOAlaWsVs)
+- [Cheat sheet for JupyterHub](jhubcheatsheet.md)
 
 This workshop will be held online (call details below) as a group conference call. We think we can hold about 50 simultaneous participants in total, but if you can't make it for any reason, not to worry: we'll record the entire discussion and will post it to YouTube afterwards (we'll update this repo with the video links).
 
