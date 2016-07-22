@@ -10,7 +10,7 @@ Materials for an online mini-workshop around JupyterHub use cases, held July 22n
 
 This workshop will be held online (call details below) as a group conference call. We think we can hold about 50 simultaneous participants in total, but if you can't make it for any reason, not to worry: we'll record the entire discussion and will post it to YouTube afterwards (we'll update this repo with the video links).
 
-The purpose of the workshop is to provide a collection of short talks highlighting various deployment use cases and tools for JupyterHub, coming both from regulars of the project and the broader community.  JupyterHub is a very flexible tool and there are multiple, different, valid use cases that require a variety of supporting tools and configurations, ranging from a local, single-machine deployment to complex scenarios in the cloud or HPC environments that orchestrate assemblies of servers.
+The purpose of the workshop is to provide a collection of short talks highlighting various deployment use cases and tools for JupyterHub, coming both from regulars of the project and the broader community.  JupyterHub is a very flexible tool and there are multiple, different, valid use cases that require a [variety of supporting tools and configurations](jhubcheatsheet.md), ranging from a local, single-machine deployment to complex scenarios in the cloud or HPC environments that orchestrate assemblies of servers.
 
 Given this flexibility and variety, we thought we should find a way to help both:
 
