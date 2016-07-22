@@ -29,7 +29,7 @@ This is our current agenda of lightning talks (only the first is a longer one by
 |  #  | Time slot | Speaker | Topic |
 | --- | --- | --- | --- |
 |1. |  9:00 - 9:30am | Min Ragan-Kelley (Simula & Jupyter Team). | System architecture, options, main plugins, etc. |
-|2. |  9:30 - 9:45. | Brian Granger (CalPoly and Jupyter Team). | Installation and deployment using ansible. |
+|2. |  9:30 - 9:45. | Brian Granger (CalPoly and Jupyter Team). | [Installation and deployment using ansible. Focus: small/medium groups of mostly trusted users for non-dev ops folks](GrangerJupyterHubDeployment.pdf) |
 |3. |  9:45 - 10:00. | Jess Hamrick (UC Berkeley and Jupyter Team). | [JupyterHub in Education: scaling with Docker and integrating with nbgrader](jhamrick-scaling-and-services.pdf) |
 |4. | 10:00 - 10:10. | Ryan Lovett (UC Berkeley). | [UC Berkeley Data8](ryanlovett-ucb-data8.pdf) |
 |5. | 10:10 - 10:20. | Shreyas Cholia (LBNL/NERSC). | [Driving Supercomputers with Jupyterhub - NERSC experiences on Cori.](Shreyas-JupyterhubWorkshopNERSC.pdf) |
