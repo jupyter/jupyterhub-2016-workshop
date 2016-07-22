@@ -39,7 +39,7 @@ This is our current agenda of lightning talks (only the first is a longer one by
 |6. | 10:20 - 10:30. | Open slot - schedule slack |  |
 |7. | **10:30 - 10:40.** | **Break**  |  |
 |8. | 10:40 - 10:50. | Michael Milligan (Minnesota Supercomputing Institute) | [JupyterHub at MSI: Building an Interactive HPC Gateway](milligan-umn-hpcgateway.pdf) |
-|9. | 10:50 - 11:00. | Ian Allison, James Colliander and Michael Lamoureux (PIMS). | JupyterHub using docker and flocker on an Openstack cluster via ansible + vagrant. |
+|9. | 10:50 - 11:00. | Ian Allison, James Colliander and Michael Lamoureux (PIMS). | [JupyterHub using docker and flocker on an Openstack cluster via ansible + vagrant.](IanAllison-JupyterHubPIMS.pdf) |
 |10. | 11 - 11:10. | Mike Polino & Alec Aivazis (DataScience, Inc). | [Lessons in transitioning a data science team to JupyterHub](https://github.com/mplno/jupyterhub-2016-workshop/blob/master/mike_polino-transitioning_to_jupyterhub.pdf). |
 |11. | 11:10 - 11:20. | Jonathon Anderson (CU Boulder). | |
 |12. | 11:20 - 11:30. | Cory Gwin (Berkeley Applied Analytics) | [Building a Custom Jupyterhub OAuthenticator.](baa_jupyter_oauth.pdf) |
