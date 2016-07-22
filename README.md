@@ -1,5 +1,7 @@
 # JupyterHub 2016 online mini-workshop
 
+[![Join the chat at https://gitter.im/jupyter/jupyterhub-2016-workshop](https://badges.gitter.im/jupyter/jupyterhub-2016-workshop.svg)](https://gitter.im/jupyter/jupyterhub-2016-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Materials for an online mini-workshop around JupyterHub use cases, held July 22nd, 2016.
 
 - [Agenda](#agenda)
