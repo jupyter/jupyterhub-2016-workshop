@@ -1,17 +1,14 @@
-# JupyterHub 2016 online mini-workshop
+# JupyterHub 2016 workshop
 
-[![Join the chat at https://gitter.im/jupyter/jupyterhub-2016-workshop](https://badges.gitter.im/jupyter/jupyterhub-2016-workshop.svg)](https://gitter.im/jupyter/jupyterhub-2016-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/jupyterhub/jupyterhub-2016-workshop](https://badges.gitter.im/jupyterhub/jupyterhub-2016-workshop.svg)](https://gitter.im/jupyter/jupyterhub-2016-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Materials for an online mini-workshop around JupyterHub use cases, held July 22nd, 2016.
+Materials for an online workshop around JupyterHub use cases, held July 22nd, 2016.
 
-- [Agenda](#agenda)
-- [Call Logistics](#call-logistics)
+- [Agenda with links to slides](#agenda)
+- Video of the meeting: [Part I](https://www.youtube.com/watch?v=VnMSjR5IoS8) and [Part II](https://www.youtube.com/watch?v=6p1xhi0P5dg)
 - [Meeting notes](https://jupyter.hackpad.com/JupyterHub-Mini-Workshop-Notes-QquOAlaWsVs)
 - [Cheat sheet for JupyterHub](jhubcheatsheet.md)
-
-This workshop will be held online (call details below) as a group conference call. We think we can hold about 50 simultaneous participants in total, but if you can't make it for any reason, not to worry: we'll record the entire discussion and will post it to YouTube afterwards (we'll update this repo with the video links).
-
-During the workshop, we'll use the repo's [gitter room](https://gitter.im/jupyter/jupyterhub-2016-workshop) for group/audience communications.
+- [Call Logistics](#call-logistics)
 
 The purpose of the workshop is to provide a collection of short talks highlighting various deployment use cases and tools for JupyterHub, coming both from regulars of the project and the broader community.  JupyterHub is a very flexible tool and there are multiple, different, valid use cases that require a [variety of supporting tools and configurations](jhubcheatsheet.md), ranging from a local, single-machine deployment to complex scenarios in the cloud or HPC environments that orchestrate assemblies of servers.
 
@@ -22,8 +19,6 @@ Given this flexibility and variety, we thought we should find a way to help both
 - the development team, who needs to understand what are the common and recurring pain points to drive the system forward.
 
 It seemed that a very informal, lightweight collection of talks by both members of the Jupyter team and community participants who have already built tools or deployed the system for their needs, could provide this kind of "gallery" overview.
-
-This repository will be gradually filled out with the content from the talks, and we'll update it with the video recording of the discussion after it happens.
 
 ## Agenda
 
