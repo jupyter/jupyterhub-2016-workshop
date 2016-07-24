@@ -9,6 +9,7 @@ JupyterHub
 - [GitHub](https://github.com/jupyterhub/jupyterhub)
 - [Documentation online](http://jupyterhub.readthedocs.io/en/latest/) 
 - [PDF download](https://media.readthedocs.org/pdf/jupyterhub/latest/jupyterhub.pdf) 
+- [REST API documentation](http://petstore.swagger.io/?url=https://raw.githubusercontent.com/jupyter/jupyterhub/master/docs/rest-api.yml#/default)
 
 ### Tutorial
 
