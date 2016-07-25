@@ -1,0 +1,71 @@
+# JupyterHub at University of Colorado Boulder
+
+
+## Goals
+
+* Provide a central Jupyter interface into our existing HPC and other
+  central compute / storage / application infrastructure.
+
+* Alternative / replacement for interactive prototyping, lowering
+  barrier-to-entry for new classes of user.
+
+* Alternative to a general-purpose ssh login node.
+
+
+## What we have
+
+* JupyterHub deployed in vSphere
+
+* PAM to our authentication system (Duo, VASCO, Kerberos, RADIUS)
+
+* lmod-published software
+
+* Access to our global/shared network filesystems
+  * NFS (including /home)
+  * Lustre
+  * GPFS
+
+
+## How we configured JupyterHub
+
+* kernels
+  * bash_kernel
+  * IRKernel
+  * IPython[2]
+
+* ipyparallel with template profiles to our various compute
+  clusters and environments
+
+* mpi4py against IPEngine clusters
+
+* batchspawner to dispatch notebooks in a compute cluster using slurm
+  * We intend to replace this with remote kernels
+    (https://github.com/korniichuk/rk), though I hadn't discovered the
+    Profiles spawner before today
+
+
+## What we'd like to see
+
+* First-class support for virtualenv in kernel configuration json
+
+* Support for user environment initialization in the default spawner
+  (`rc` / `profile` files)
+* Support for cgroups in the default spawner
+  * You'll probably tell me to use Docker
+
+* Additional IPython cluster deployment parameters in web interface
+
+* Additional IPython cluster status details in web interface
+  * "running" vs "queued" vs "failed" etc
+
+* Navigation above initial / home directory
+
+* Clustering of multiple JupyterHub servers
+  * Sounds like we should be looking at the Docker spawner for this
+
+* Spawn terminals into remote compute environments
+
+
+## XSEDE deployment tutorial slides
+
+https://goo.gl/sbEuNM
