@@ -5,7 +5,7 @@
 Materials for an online workshop around JupyterHub use cases, held July 22nd, 2016.
 
 - [Agenda with links to slides](#agenda)
-- Video of the meeting: [Part I](https://www.youtube.com/watch?v=VnMSjR5IoS8) and [Part II](https://www.youtube.com/watch?v=6p1xhi0P5dg)
+- **Video of the meeting:** [Part I](https://www.youtube.com/watch?v=VnMSjR5IoS8) and [Part II](https://www.youtube.com/watch?v=6p1xhi0P5dg)
 - [Meeting notes](https://jupyter.hackpad.com/JupyterHub-Mini-Workshop-Notes-QquOAlaWsVs)
 - [Cheat sheet for JupyterHub](jhubcheatsheet.md)
 - [Call Logistics](#call-logistics)
