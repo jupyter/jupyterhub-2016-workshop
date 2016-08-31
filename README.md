@@ -6,7 +6,7 @@ Materials for an online workshop around JupyterHub use cases, held July 22nd, 20
 
 - [Agenda with links to slides](#agenda)
 - **Video of the meeting:** [Part I](https://www.youtube.com/watch?v=VnMSjR5IoS8) and [Part II](https://www.youtube.com/watch?v=6p1xhi0P5dg)
-- [Meeting notes](https://jupyter.hackpad.com/JupyterHub-Mini-Workshop-Notes-QquOAlaWsVs)
+- [Live meeting notes in Hackpad](https://jupyter.hackpad.com/JupyterHub-Mini-Workshop-Notes-QquOAlaWsVs), and [summary notes with diagrams (PDF)](https://github.com/jupyterhub/jupyterhub-2016-workshop/blob/master/JupyterHubWorkshop2016Notes.pdf).
 - [Cheat sheet for JupyterHub](jhubcheatsheet.md)
 - [Call Logistics](#call-logistics)
 
